@@ -1,4 +1,4 @@
-# 🖥️ Lucas Audette's Cybersecurity Home Lab
+# 🖥️ Lucas' Cybersecurity Home Lab
 
 ## 📜 Purpose
 The purpose of my home lab is to create a secure, hands-on environment to learn and apply cybersecurity skills. It serves to:
