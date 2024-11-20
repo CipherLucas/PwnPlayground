@@ -3,7 +3,6 @@
 ## ⚠️ DISCLAIMER: Everything that I am doing in this lab is solely for educational purposes ONLY. I do not support some of the labs that I have have taken on, some of these labs simulate what real threat actors do. Everything that I have done is isolated on a private VLAN and the firewall is configured to block outgoing traffic so nothing can be out of scope. 
 
 <br />
-<br />
 
 ## 📜 Purpose
 The purpose of my home lab is to create a secure, hands-on environment to learn and apply cybersecurity skills. It serves to:
