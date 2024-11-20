@@ -28,7 +28,7 @@ My lab leverages VMware Workstation to manage multiple virtual machines (VMs) on
 Visualizing the Setup  
 Below, you can insert a diagram illustrating the overall lab structure, including VMs, networking configurations, and traffic flow.
 
-![Lab Network Diagram](path/to/diagram.png)  
+![Lab Network Diagram](https://github.com/CipherLucas/PwnPlayground/blob/main/PwnPlayground.drawio.png)  
 *Example*: A centralized firewall filtering traffic between attacker machines (e.g., Kali Linux) and target systems (e.g., Metasploitable, Windows Server). Internal NAT network isolates key components, ensuring no external exposure.  
 *Note*: Replace `path/to/diagram.png` with the relative path to your image in the repository, such as `images/vmware_lab_diagram.png`.
 
