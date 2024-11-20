@@ -1,5 +1,6 @@
 # 🖥️ Lucas' Cybersecurity Home Lab
 
+## ⚠️⚠️ DISCLAIMER: Everything that I am doing in this lab is solely for educational purposes ONLY. I do not support some of the labs that I have have taken on. Everything that I have done is isolated on a LAN, the firewall is configured on purpose to block outgoing traffic so nothing can be out of scope. 
 ## 📜 Purpose
 The purpose of my home lab is to create a secure, hands-on environment to learn and apply cybersecurity skills. It serves to:
 
