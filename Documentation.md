@@ -26,11 +26,8 @@ My lab leverages VMware Workstation to manage multiple virtual machines (VMs) on
 
 ## 🖼️ Lab Network Diagram
 Visualizing the Setup  
-Below, you can insert a diagram illustrating the overall lab structure, including VMs, networking configurations, and traffic flow.
 
-![Lab Network Diagram](https://github.com/CipherLucas/PwnPlayground/blob/main/PwnPlayground.drawio.png)  
-*Example*: A centralized firewall filtering traffic between attacker machines (e.g., Kali Linux) and target systems (e.g., Metasploitable, Windows Server). Internal NAT network isolates key components, ensuring no external exposure.  
-*Note*: Replace `path/to/diagram.png` with the relative path to your image in the repository, such as `images/vmware_lab_diagram.png`.
+![Lab Network Diagram](https://github.com/CipherLucas/PwnPlayground/blob/main/PwnPlayground.drawio.png) 
 
 ## 🖥️ Machines in Use
 
@@ -42,7 +39,7 @@ Below, you can insert a diagram illustrating the overall lab structure, includin
 | **Windows Server 2012** | Simulates Active Directory for privilege escalation and forensics.           |
 | **Windows 7**         | Legacy machine for exploit testing and forensic tasks.                       |
 | **SEED Ubuntu**       | Focused on web application security and cryptographic exercises.             |
-
+| **Ghost Spectre Win11** | Used to test various RATTING Tools. Use since Windows defender is disabled |
 ## 🔬 Projects Conducted
 
 ### 1. Penetration Testing
